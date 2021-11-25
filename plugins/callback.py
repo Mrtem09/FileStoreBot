@@ -67,17 +67,17 @@ async def about_cb(c, m):
 
     about_text = f"""--**🍺 Mʏ Dᴇᴛᴀɪʟs:**--
     
-╭───[ **🔅 FɪʟᴇSᴛᴏʀᴇBᴏᴛ 🔅** ]───⍟
+╭───[ **🔅 TEM SERIES BOT 🔅** ]───⍟
 │
 ├**🔸Vᴇʀꜱɪᴏɴ :** `3.0.1`
 │
-├**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/avipatilpro/FileStoreBot)
+├**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://telegram.me/Wow_These_Burdens_Are_Heavy))
 │
-├**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://GitHub.com/avipatilpro)
+├**🔸Tᴇʟᴇɢʀᴀᴍ :** [Fᴏʟʟᴏᴡ](https://telegram.me/Wow_These_Burdens_Are_Heavy))
 │
-├**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://telegram.me/Avishkarpatil)
+├**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://telegram.me/Wow_These_Burdens_Are_Heavy)
 │
-├**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 12-ᴊᴜʟʏ-21 ]](https://telegram.me/AvishkarPatil)
+├**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 12-ᴊᴜʟʏ-21 ]](https://telegram.me/Wow_These_Burdens_Are_Heavy)
 │
 ╰─────────[ 😎 ]────────⍟
 """  
